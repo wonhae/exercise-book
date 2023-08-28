@@ -1,5 +1,5 @@
 # exercise-book
 
-[click1](경로)
+[click1](./test1/)
 
 [click2](경로)
