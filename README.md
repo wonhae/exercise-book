@@ -1,7 +1,7 @@
 # exercise-book
 
-[click1](./test1/)
+[chair](./chair.md)
 
-[click2](경로)
+[desk click](/.desk.md)
 
 ```bash
