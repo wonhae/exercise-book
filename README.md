@@ -3,5 +3,5 @@
 
 [desk click](./desk.md)
 
-[mango click](./exercise-book/fruit/mango.md)
+[mango click](./fruit/mango.md)
 
