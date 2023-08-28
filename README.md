@@ -5,3 +5,5 @@
 
 [mango click](./fruit/mango.md)
 
+[bibimbap click](./food/koream/bibimbap.md)
+
