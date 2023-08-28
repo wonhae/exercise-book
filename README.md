@@ -1,6 +1,6 @@
 # exercise-book
 
-[chair](./chair.md)
+[chair](./exercise-book/chair.md)
 
 [desk click](./desk.md)
 
