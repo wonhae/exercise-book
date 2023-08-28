@@ -1,6 +1,7 @@
 # exercise-book
 
-[chair](./exercise-book/chair.md)
 
 [desk click](./desk.md)
+
+[mango click](./exercise-book/fruit/mango.md)
 
